@@ -3,12 +3,12 @@
 	"name": "tellki-agent",
 	"description": "Tellki agent for reading metrics and execute commands on remote clients",
 	"version": "0.0.17",
-	"main": "agent.client.js",
+	"main": "agent.js",
 	"js-flags": "--expose-gc",
 	"keywords": ["tellki","monitor","agent","web socket","administration", "real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
-		"type" : "git", "url" : "https://github.com/tfjorge/tellki-agent.git"  },
+		"type" : "git", "url" : "https://github.com/tellkiApp/tellki-agent.git"  },
 	"main": "./lib/agent",
 	"bin": {
 		"tellki-agent": "./bin/tellki-agent"
