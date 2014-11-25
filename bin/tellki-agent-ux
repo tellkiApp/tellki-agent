@@ -6,10 +6,10 @@ case `uname` in
 esac
 
 if [ -x "$basedir/node" ]; then
-  "$basedir/node" "$basedir/node_modules/tellki-agent/bin/tellki-agent" "$@"
+  "$basedir/node" --expose-gc "$basedir/node_modules/tellki-agent/bin/tellki-agent" "$@"
   ret=$?
 else 
-  node "$basedir/node_modules/tellki-agent/bin/tellki-agent" "$@"
+  node --expose-gc "$basedir/node_modules/tellki-agent/bin/tellki-agent" "$@"
   ret=$?
 fi
 exit $ret
