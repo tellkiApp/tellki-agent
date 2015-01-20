@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-agent",
 	"description": "Tellki agent for reading metrics and execute commands on remote clients",
-	"version": "0.0.44",
+	"version": "0.0.46",
 	"main": "agent.js",
 	"js-flags": "--expose-gc",
 	"keywords": ["tellki","monitor","agent","web socket","administration", "real time"],
