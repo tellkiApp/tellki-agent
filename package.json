@@ -12,7 +12,7 @@
 	"main": "./lib/agent",
 	"bin": {
 		"tellki-agent": "./bin/tellki-agent",
-		"tellki-agent-service": "./bin/tellki-agent-service",
+		"tellki-agent-service": "./bin/tellki-agent-service"
 	},
 	"dependencies": {
         "sockjs-client": "0.1.3",
