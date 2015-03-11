@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-agent",
 	"description": "Tellki agent for reading metrics and execute commands on remote clients",
-	"version": "0.1.10",
+	"version": "0.1.11",
 	"main": "agent.js",
 	"js-flags": "--expose-gc",
 	"keywords": ["tellki","monitor","agent","web socket","administration", "real time"],
@@ -11,8 +11,8 @@
 		"type" : "git", "url" : "https://github.com/tellkiApp/tellki-agent.git"  },
 	"main": "./lib/agent",
 	"bin": {
-		"tellki-agent": "./bin/tellki-agent",
-		"tellki-agent-service": "./bin/tellki-agent-service"
+		"tellkiagent": "./bin/tellkiagent",
+		"tellkiagent-setup": "./bin/tellkiagent-setup"
 	},
 	"dependencies": {
         "sockjs-client": "0.1.3",
