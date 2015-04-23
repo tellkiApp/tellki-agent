@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-agent",
 	"description": "The monitoring agent for Tellki - an IT monitoring and management cloud service.",
-	"version": "0.2.2",
+	"version": "0.2.3",
 	"main": "agent.js",
 	"js-flags": "--expose-gc",
 	"keywords": ["tellki","monitor","agent","web socket","administration", "real time"],
@@ -16,7 +16,7 @@
 	},
 	"dependencies": {
         "sockjs-client": "0.1.3",
-        "adm-zip": "0.4.4",
+        "adm-zip": "0.4.7",
         "npm": "*"
 	},
 	"engines": {
