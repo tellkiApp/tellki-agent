@@ -1,6 +1,4 @@
 ![Auth pic](http://i.imgur.com/cm9Nyxp.jpg)
-tellki-agent
-============
 
 Tellki Agent is a component used by tellki.com to execute instructions and gather metrics on the server.
 Uses Websocket (WSS) to comunicate between the client server and the Tellki Agent controller.
@@ -20,8 +18,7 @@ tellkiagent-setup -install -key {KEY}
 ```
 * replace {KEY} with the correct key
 
-============
-**For more information just visit http://tellki.com**
 
+**For more information just visit http://tellki.com**
 
 **For support visit http://support.tellki.com/**
