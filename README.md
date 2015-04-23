@@ -19,6 +19,8 @@ tellkiagent-setup -install -key {KEY}
 ```
 * replace {KEY} with the correct key
 
+============
 **For more information just visit http://tellki.com**
+
 
 **For support visit http://support.tellki.com/**
