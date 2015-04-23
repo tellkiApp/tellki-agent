@@ -1,4 +1,4 @@
-tellki-agent
+![Auth pic](http://i.imgur.com/cm9Nyxp.jpg)
 ============
 
 Tellki Agent is a component used by tellki.com to execute instructions and gather metrics on the server.
@@ -22,5 +22,3 @@ tellkiagent-setup -install -key {KEY}
 **For more information just visit http://tellki.com**
 
 **For support visit http://support.tellki.com/**
-
-![Auth pic](http://imgur.com/cm9Nyxp)
