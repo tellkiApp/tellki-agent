@@ -17,8 +17,8 @@ Start the agent using the following instruction
 tellkiagent-setup -install -key {KEY} [-tags {tag1,tag2,...} -uuid {AGENT_UUID}]
 ```
 * replace {KEY} with the correct key
-* -tags - allows you to start the agent with the monitors with the tags indicated
-* -uuid - allows you to recover the agent configuration
+* -tags : Allows the Tellki Agent to auto-start monitoring with the (monitors) tags indicated for faster deployment. 
+* -uuid : Allows the Tellki Agent to auto-start with a previously configuration, usefully for restore operations.
 
 **For more information just visit https://tellki.com**
 
