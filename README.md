@@ -1,4 +1,4 @@
-![Auth pic](http://imgur.com/qfPAzIC)
+![Auth pic](http://i.imgur.com/qfPAzIC.png)
 
 Tellki Agent is a component used by tellki.com to execute instructions, actions and gather metrics on the server.
 Uses Websocket (WSS) to comunicate between the client server and the Tellki Agent controller.
