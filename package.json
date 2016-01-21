@@ -2,10 +2,10 @@
 	"author": "guberni",
 	"name": "tellki-agent",
 	"description": "The monitoring agent for Tellki - an IT monitoring and management cloud service.",
-	"version": "0.2.8",
+	"version": "0.2.9",
 	"main": "agent.js",
 	"js-flags": "--expose-gc",
-	"keywords": ["tellki","monitor","agent","web socket","administration", "real time"],
+	"keywords": ["tellki","monitor","agent","web socket","administration", "real time", "actions", "scripts", "remote", "local"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
 		"type" : "git", "url" : "https://github.com/tellkiApp/tellki-agent.git"  },
